@@ -18,7 +18,6 @@ class ViewController: UIViewController, NrPrimDelegate {
         // La incarcarea View-ului setez delegatul ca fiind self (ViewController)
         
         // self trebuie sa fie initializat inainte de-al folosi. In viewDidLoad stiu sigur ca self exista
-        
         // self este ViewController, fara el nu am putea vedea View-ul deci nu am vedea nimic in aplicatie. De-asta cand apare View-ul sunt 100% sigur ca exista si ViewController-ul
     }
     
